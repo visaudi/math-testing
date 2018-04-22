@@ -1,5 +1,5 @@
 
-const addNumbers = (a, b) => a + b;
+const addNumbers = require("./index"); 
 
 test("Adds two numbers", function () {
     expect(addNumbers(1, 2)).toBe(3);
