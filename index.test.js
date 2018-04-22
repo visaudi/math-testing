@@ -1,5 +1,5 @@
 
-const addNumbers = () => 3;
+const addNumbers = (a, b) => a + b;
 
 test("Adds two numbers", function () {
     expect(addNumbers(1, 2)).toBe(3);
