@@ -1,0 +1,19 @@
+{
+  "name": "math-testing",
+  "version": "1.0.0",
+  "description": "Tests basic math",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visaudi/math-testing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/visaudi/math-testing/issues"
+  },
+  "homepage": "https://github.com/visaudi/math-testing#readme"
+}
